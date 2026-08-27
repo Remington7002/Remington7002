@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Ahmed 👋
 
-<!--
-**Remington7002/Remington7002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student and full-stack developer, currently building with **.NET, React.js, and Node.js**, with additional experience in **Flutter** for cross-platform mobile apps.
 
-Here are some ideas to get you started:
+- 🎓 Studying Software Engineering at Barani Institute of Information Technology
+- 💼 Full Stack Development Intern @ CodeAlpha (.NET, React.js, Node.js)
+- 📱 Flutter Development Intern @ WebEra Solutions
+- 🛠️ Comfortable across Java, C#, C++, JavaScript, SQL Server, and MySQL
+- 🌱 Currently sharpening my skills in backend architecture and clean API design
+- 📫 Reach me: ahmedraza.pola1234@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech stack**
+
+`Java` `C#` `C++` `JavaScript` `ASP.NET Core` `React.js` `Node.js` `Flutter` `SQL Server` `MySQL`
+
+**Tools**
+
+`Visual Studio` `VS Code` `Eclipse` `Git` `Figma` `Adobe XD`
+
+---
+
+🔗 Portfolio: [remington7002.github.io/portfolio-ahmed](https://remington7002.github.io/portfolio-ahmed/#/)
+🔗 LinkedIn: [ahmed-raza-a16b1b256](https://www.linkedin.com/in/ahmed-raza-a16b1b256/)
