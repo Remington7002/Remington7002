@@ -1,11 +1,11 @@
 ### Hi, I'm Ahmed 👋
 
-Software Engineering student and full-stack developer, currently building with **.NET, React.js, and Node.js**, with additional experience in **Flutter** for cross-platform mobile apps.
+Software Engineering student and full-stack developer, currently building with **.NET, React.js, and Node.js**, with additional experience in **Mobile App (React-Native)** for cross-platform mobile apps.
 
 - 🎓 Studying Software Engineering at Barani Institute of Information Technology
 - 💼 Full Stack Development Intern @ CodeAlpha (.NET, React.js, Node.js)
 - 📱 App Development Intern @ WebEra Solutions
-- 🛠️ Comfortable across Java, C#, C++, JavaScript, SQL Server, and MySQL
+- 🛠️ Comfortable across Java, C#, C++, JavaScript,React-Native , SQL Server, and MySQL
 - 🌱 Currently sharpening my skills in backend architecture and clean API design
 - 📫 Reach me: ahmedraza.pola1234@gmail.com
 
@@ -13,7 +13,7 @@ Software Engineering student and full-stack developer, currently building with *
 
 **Tech stack**
 
-`Java` `C#` `C++` `JavaScript` `ASP.NET Core` `React.js` `Node.js` `Flutter` `SQL Server` `MySQL`
+`Java` `C#` `C++` `JavaScript` `ASP.NET Core` `React.js` `Node.js` `Flutter` `SQL Server` `MySQL` `React-Native` `MongoDB`
 
 **Tools**
 
