@@ -4,7 +4,7 @@ Software Engineering student and full-stack developer, currently building with *
 
 - 🎓 Studying Software Engineering at Barani Institute of Information Technology
 - 💼 Full Stack Development Intern @ CodeAlpha (.NET, React.js, Node.js)
-- 📱 Flutter Development Intern @ WebEra Solutions
+- 📱 App Development Intern @ WebEra Solutions
 - 🛠️ Comfortable across Java, C#, C++, JavaScript, SQL Server, and MySQL
 - 🌱 Currently sharpening my skills in backend architecture and clean API design
 - 📫 Reach me: ahmedraza.pola1234@gmail.com
